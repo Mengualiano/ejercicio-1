@@ -13,12 +13,15 @@ Ejercicio 1
 
   5:Ahora que está en el área de ensayo, listo para formar parte del historial, hacer un commit ![image](https://user-images.githubusercontent.com/114684235/205121983-99860fec-2478-4cb9-987f-f8f471e9f7ab.png)
 
-  6: Confirmar el commit y guardarlo en repositorio main 
+  6: Confirmar el commit y guardarlo en repositorio main ![image](https://user-images.githubusercontent.com/114684235/205122735-1aea4f83-6a32-4775-87eb-e00488c05a0c.png)
 
 
-  7: Traer los cambios realizados en main o master 
 
-  8: Hacer checkout 
+  7: Traer los cambios realizados en main o master ![image](https://user-images.githubusercontent.com/114684235/205122849-cd05b8f2-5766-495a-8bc8-3333e9b97b77.png)
+
+
+  8: Hacer checkout ![image](https://user-images.githubusercontent.com/114684235/205122934-c25a939b-c14c-469c-a020-6b1263fbff24.png)
+
 
   9:Actualizar la zona local con los cambios realizados en el repositorio remoto 
   
