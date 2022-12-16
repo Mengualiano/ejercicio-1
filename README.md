@@ -1,4 +1,4 @@
-# examen-maximo-poder
+# ejercicio 1 github
 
 Ejercicio 1
   
